@@ -1,6 +1,8 @@
 # L1_Sokoban
 (2020) Sokoban en Python. Découverte de la programmation objet et de pygame.
 
+Université de Caen-Normandie, projet à 4 (Romain Andres, Harmonie Bertucci, Remy Corbin, Djalila Lomba)
+
 Le principe du jeu est qu'un personnage doit pousser des caisses à des
 cases spécifiques pour pouvoir passer au niveau suivant. Le personnage ne
 peut se déplacer que dans les quatre directions et pousser une seule caisse à

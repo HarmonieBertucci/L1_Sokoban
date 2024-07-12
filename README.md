@@ -1,7 +1,7 @@
 # L1_Sokoban
 (2020) Sokoban en Python. Découverte de la programmation objet et de pygame.
 
-Université de Caen-Normandie, projet à 4 (Romain Andres, Harmonie Bertucci, Remy Corbin, Djalila Lomba)
+Université de Caen-Normandie, projet à 4 (R.Andres, H.Bertucci, R.Corbin, D.Lomba)
 
 # Pour l'éxécuter
 python3 src/Principal.py

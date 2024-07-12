@@ -2,7 +2,7 @@
 (2020) Sokoban en Python. Découverte de la programmation objet et de pygame.
 
 Le principe du jeu est qu'un personnage doit pousser des caisses à des
-cases spéciques pour pouvoir passer au niveau suivant. Le personnage ne
+cases spécifiques pour pouvoir passer au niveau suivant. Le personnage ne
 peut se déplacer que dans les quatre directions et pousser une seule caisse à
 la fois.Comme le personnage ne peut pas tirer de caisse, il est possible de se
 retrouver bloqué après un mouvement mal choisi.
